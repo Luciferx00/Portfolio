@@ -1,9 +1,5 @@
 # My Portfolio
 
-## Demo
-
-![Portfolio](/src/portfolio.gif)
-
 ## Sections
 
 - Home
